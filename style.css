@@ -1,4 +1,7 @@
 #scherm1 {
+  position: absolute;
+  left: -100px;
+  top: -100px;
     border: 0px;
     background-color: transparent;
     color: white;
@@ -6,9 +9,7 @@
     touch-action: none;
     user-select: none;
     transform: translate(0px, 0px);
-    position: absolute;
-    left: 1000px;
-    top: 0px;
+
   }
   
   #scherm2 {
