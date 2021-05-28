@@ -2,7 +2,6 @@
     margin: 1rem 0 0 1rem;
     background-color: transparent;
     color: white;
-    border-radius: 100em;
     padding: 4%;
     touch-action: none;
     user-select: none;
@@ -13,7 +12,6 @@
     margin: 1rem 0 0 1rem;
     background-color: transparent;
     color: white;
-    border-radius: 0.75em;
     padding: 4%;
     touch-action: none;
     user-select: none;
