@@ -1,8 +1,6 @@
-#vierkantje {
-    width: 25%;
-    min-height: 4em;
+#scherm1 {
     margin: 1rem 0 0 1rem;
-    background-color: #ff3366;
+    background-color: transparent;
     color: white;
     border-radius: 100em;
     padding: 4%;
@@ -11,11 +9,9 @@
     transform: translate(0px, 0px);
   }
   
-  #vierkantje2 {
-    width: 25%;
-    min-height: 6.5em;
+  #scherm2 {
     margin: 1rem 0 0 1rem;
-    background-color: #29e;
+    background-color: transparent;
     color: white;
     border-radius: 0.75em;
     padding: 4%;
