@@ -1,148 +1,134 @@
+
+
 #scherm1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  padding-left:40px;
+  padding-top:20px;
   position: absolute;
-  height:0px;
-  width:0px;
-  left: 0px;
-  top: 0px;
-    border: 0px;
-    background-color: transparent;
-    color: rgb(255, 0, 0);
-    touch-action: none;
-    user-select: none;
-    transform: translate(0px, 0px);
+  height:64%;
+  width:50%;
+  left: 25px;
+  top: 25px;
+    border-radius: 50px 0px 00px 0px;
+    background-color: #ffb98f;
+    color: rgb(0, 0, 0);
 
   }
   
 #scherm2 {
   position: absolute;
-  height:0px;
-  width:0px;
-  left: 700px;
-  top: 0px;
-    border: 0px;
-    background-color:transparent;
-    color: rgb(255, 0, 0);
-    touch-action: none;
-    user-select: none;
-    transform: translate(0px, 0px);
+  height:62%;
+  width:32%;
+  left: 625px;
+  top: 25px;
+    border-radius: 00px 0px 50px 0px;
+    background-color:#9bd4d7;
+    padding-left:70px;
+    padding-top:175px;
   
+}
+
+#scherm3 {
+  position: absolute;
+  height:20%;
+  width:43%;
+  left: 25px;
+  top: 444px;    
+  background-color:#ffff8f;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 11px;
+  padding:10px;
+}
+
+#autovoorbeeld {
+  height:10%;
+  width:85%;
+  background-color:transparent;
 }
   #wiel1 {
     height:0px;
     width:0px;
-    left: 75px;
-    top: 75px;
-    background-color: transparent;
-    color: black;
-    touch-action: none;
-    user-select: none;
-    transform: translate(0px, 0px);
+    left: 50px;
+    top: 41px;
+    background-color:transparent;
   }
 
   #bovenkant {
     height:0px;
     width:0px;
-    left: 75px;
-    top: 150px;
-    background-color: red;
-    color: black;
-    touch-action: none;
-    user-select: none;
-    transform: translate(0px, 0px);
+    left: 50px;
+    top: 120px;
+    background-color: transparent;
   }
 
   #raamlinks {
     height:0px;
     width:0px;
-    left: 350px;
-    top: 160px;
-    background-color: transparent;
-    color: black;
-    touch-action: none;
-    user-select: none;
-    transform: translate(0px, 0px);
+    left: 325px;
+    top: 140px;
+    background-color:transparent;
   }
 
   #raamrechts {
     height:0px;
     width:0px;
-    left: 470px;
-    top: 160px;
+    left: 450px;
+    top: 140px;
     background-color: transparent;
-    color: black;
-    touch-action: none;
-    user-select: none;
-    transform: translate(0px, 0px);
   }
 
   #voorkant {
-    height:0px;
-    width:0px;
-    left: 75px;
-    top: 270px;
+    height:100%;
+    width:7%;
+    left: 50px;
+    top: 240px;
     background-color: transparent;
-    color: black;
-    touch-action: none;
-    user-select: none;
-    transform: translate(0px, 0px);
   }
 
   #koplamp1 {
-    height:0px;
+    height:100%;
     width:0px;
-    left: 520px;
-    top:  275px;
+    left: 305px;
+    top:  -45px;
     background-color: transparent;
-    color: black;
-    touch-action: none;
-    user-select: none;
-    transform: translate(0px, 0px);
   }
 
   #koplamp2 {
     height:0px;
     width:0px;
-    left: 520px;
-    top: 315px;
+    left: 305px;
+    top: -40px;
     background-color: transparent;
-    color: black;
-    touch-action: none;
-    user-select: none;
-    transform: translate(0px, 0px);
+
   }
 
   #zijkant {
     height:0px;
     width:0px;
-    left: 270px;
-    top: 270px;
+    left: 250px;
+    top: 120px;
     background-color: transparent;
-    color: black;
-    touch-action: none;
-    user-select: none;
-    transform: translate(0px, 0px);
+
   }
 
   #wiel2 {
     height:0px;
     width:0px;
-    left: 160px;
-    top: 75px;
+    left: 138px;
+    top: -80px;
     background-color: transparent;
-    color: black;
-    touch-action: none;
-    user-select: none;
-    transform: translate(0px, 0px);
   }
 
   #wiel3 {
     height:0px;
     width:0px;
-    left: 240px;
-    top: 75px;
+    left: 220px;
+    top: -80px;
     background-color: transparent;
-    color: black;
-    touch-action: none;
-    user-select: none;
-    transform: translate(0px, 0px);
+  }
+
+  .responsive {
+    max-width: 100%;
+    height: auto;
   }
